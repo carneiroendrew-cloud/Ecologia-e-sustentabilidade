@@ -60,6 +60,3 @@ Expandir o conhecimento é a base da mudança de hábitos. Separamos as melhores
 * **Cataki:** O "Uber da reciclagem". Conecta você diretamente com catadores de materiais recicláveis na sua região para que você descarte seu lixo de forma justa e correta.
 * **Olio:** Uma plataforma focada no combate ao desperdício de comida, permitindo que você doe ou compartilhe alimentos excedentes com vizinhos e comércios locais.
 * **Sai Desse Banho:** Um aplicativo brasileiro divertido que funciona como um cronômetro musical para te ajudar a reduzir o tempo no chuveiro e economizar litros de água de forma lúdica.
-
----
-🌿 *Criado com carinho por [Seu Nome]. Faça parte da mudança, mude o seu horizonte.*
